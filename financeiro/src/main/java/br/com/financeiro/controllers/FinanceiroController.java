@@ -22,14 +22,14 @@ public class FinanceiroController {
 
 		
 		financeiro1.setId(1L);
-		financeiro1.setNome("eduardo");
-		financeiro1.setSobrenome("Paim");
+		financeiro1.setNome("bruno");
+		financeiro1.setSobrenome("lucas");
 		financeiro1.setCpf("10664724752");
 		
 		financeiro2.setId(2L);
-		financeiro2.setNome("eduardo1");
-		financeiro2.setSobrenome("Paim1");
-		financeiro2.setCpf("106647247523");
+		financeiro2.setNome("bruno");
+		financeiro2.setSobrenome("luca");
+		financeiro2.setCpf("1066666666");
 		
 		financeiros.add(financeiro1);
 		financeiros.add(financeiro2);
